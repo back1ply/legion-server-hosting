@@ -8,6 +8,8 @@
 !legion_games.json
 !legion_other_products.json
 !README.md
+!robots.txt
+!sitemap.xml
 
 # Allow .gitignore and .gitattributes
 !.gitignore

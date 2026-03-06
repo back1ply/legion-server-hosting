@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://back1ply.github.io/legion-server-hosting/sitemap.xml
