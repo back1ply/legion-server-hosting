@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow GitHub Pages essentials (root level)
+!.nojekyll
+!index.html
+!style.css
+!legion_games.json
+!legion_other_products.json
+!README.md
+
+# Allow .gitignore and .gitattributes
+!.gitignore
+!.gitattributes

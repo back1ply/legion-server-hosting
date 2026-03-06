@@ -1,0 +1,404 @@
+[
+  {
+    "name": "ATLBot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/a-t-l-bot"
+  },
+  {
+    "name": "Bastion",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/bastion"
+  },
+  {
+    "name": "Big Brother Bot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/big-brother-bot"
+  },
+  {
+    "name": "CorpBot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/corp-bot"
+  },
+  {
+    "name": "Dynamica",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/dynamica"
+  },
+  {
+    "name": "fragbot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/fragbot"
+  },
+  {
+    "name": "JTS3ServerMod",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/j-t-s3-server-mod"
+  },
+  {
+    "name": "parkertron",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/parkertron"
+  },
+  {
+    "name": "PhantomBot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/phantom-bot"
+  },
+  {
+    "name": "pixel-bot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/pixel-bot"
+  },
+  {
+    "name": "Red",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/red"
+  },
+  {
+    "name": "Sinusbot",
+    "monthly": "3.16",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/sinusbot"
+  },
+  {
+    "name": "SogeBot",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/soge-bot"
+  },
+  {
+    "name": "Discord Bot \u2022 NodeJS",
+    "monthly": "1.58",
+    "category": "Bot Hosting",
+    "link": "https://legionhosting.net/index.php?rp=/store/bots/discord-bot-nodejs"
+  },
+  {
+    "name": "Minecraft Java",
+    "monthly": "3.16",
+    "category": "Minecraft",
+    "link": "https://legionhosting.net/index.php?rp=/store/minecraft/minecraft-java"
+  },
+  {
+    "name": "Minecraft Bedrock",
+    "monthly": "3.16",
+    "category": "Minecraft",
+    "link": "https://legionhosting.net/index.php?rp=/store/minecraft/minecraft-bedrock"
+  },
+  {
+    "name": "Minecraft Crossplay",
+    "monthly": "3.16",
+    "category": "Minecraft",
+    "link": "https://legionhosting.net/index.php?rp=/store/minecraft/minecraft-crossplay"
+  },
+  {
+    "name": "Minecraft Proxy Server",
+    "monthly": "4.00",
+    "category": "Minecraft",
+    "link": "https://legionhosting.net/index.php?rp=/store/minecraft/minecraft-proxy-server"
+  },
+  {
+    "name": "5e Tools",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/5e-tools"
+  },
+  {
+    "name": "Bun",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/bun"
+  },
+  {
+    "name": "dart generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/dart-generic"
+  },
+  {
+    "name": "Deno Generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/deno-generic"
+  },
+  {
+    "name": "Elasticsearch",
+    "monthly": "4.72",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/elasticsearch"
+  },
+  {
+    "name": "Elixir",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/elixir"
+  },
+  {
+    "name": "Forgejo",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/forgejo"
+  },
+  {
+    "name": "Generic C#",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/generic-c"
+  },
+  {
+    "name": "Generic Java",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/generic-java"
+  },
+  {
+    "name": "Gitea",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/gitea"
+  },
+  {
+    "name": "golang generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/golang-generic"
+  },
+  {
+    "name": "Grafana",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/grafana"
+  },
+  {
+    "name": "haste-server",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/haste-server"
+  },
+  {
+    "name": "LanguageTool",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/languagetool"
+  },
+  {
+    "name": "Lavalink",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/lavalink"
+  },
+  {
+    "name": "Loki",
+    "monthly": "4.72",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/loki"
+  },
+  {
+    "name": "luvit generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/luvit-generic"
+  },
+  {
+    "name": "MariaDB",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/mariadb"
+  },
+  {
+    "name": "Meilisearch",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/meilisearch"
+  },
+  {
+    "name": "Minio S3",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/minio-s3"
+  },
+  {
+    "name": "MongoDB",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/mongodb"
+  },
+  {
+    "name": "MongoDB 6",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/mongodb-6"
+  },
+  {
+    "name": "MongoDB 7",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/mongodb-7"
+  },
+  {
+    "name": "MongoDB 8",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/mongodb-8"
+  },
+  {
+    "name": "NATS",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/nats"
+  },
+  {
+    "name": "node.js generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/node-js-generic"
+  },
+  {
+    "name": "nodemon",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/nodemon"
+  },
+  {
+    "name": "owncast.online",
+    "monthly": "4.72",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/owncast.online"
+  },
+  {
+    "name": "Postgres 13",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/postgres-13"
+  },
+  {
+    "name": "Postgres 14",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/postgres-14"
+  },
+  {
+    "name": "Postgres 15",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/postgres-15"
+  },
+  {
+    "name": "Postgres 16",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/postgres-16"
+  },
+  {
+    "name": "Postgres 17",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/postgres-17"
+  },
+  {
+    "name": "Prometheus",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/prometheus"
+  },
+  {
+    "name": "python generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/python-generic"
+  },
+  {
+    "name": "RabbitMQ",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/rabbitmq"
+  },
+  {
+    "name": "Redis",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/redis"
+  },
+  {
+    "name": "Redis-5",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/redis-5"
+  },
+  {
+    "name": "Redis-6",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/redis-6"
+  },
+  {
+    "name": "Redis-7",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/redis-7"
+  },
+  {
+    "name": "Reposilite",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/reposilite"
+  },
+  {
+    "name": "rethinkdb",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/rethinkdb"
+  },
+  {
+    "name": "rust generic",
+    "monthly": "1.58",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/rust-generic"
+  },
+  {
+    "name": "SFTP Storage Share",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/sftp-storage-share"
+  },
+  {
+    "name": "Yarr",
+    "monthly": "3.16",
+    "category": "Software Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/software-servers/yarr"
+  },
+  {
+    "name": "Mumble Server",
+    "monthly": "1.58",
+    "category": "Voice Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/voice-servers/mumble-server"
+  },
+  {
+    "name": "Teamspeak3 Server",
+    "monthly": "3.16",
+    "category": "Voice Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/voice-servers/teamspeak3-server"
+  },
+  {
+    "name": "Teamspeak6 Server",
+    "monthly": "3.16",
+    "category": "Voice Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/voice-servers/teamspeak6-server"
+  },
+  {
+    "name": "TS3 Manager",
+    "monthly": "3.16",
+    "category": "Voice Servers",
+    "link": "https://legionhosting.net/index.php?rp=/store/voice-servers/ts3-manager"
+  }
+]
