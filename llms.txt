@@ -1,0 +1,21 @@
+# Legion Hosting
+
+> Game server hosting for 259+ games including Minecraft, Rust, Project Zomboid, ARK, and Valheim. AMD Ryzen CPUs, DDoS protection, instant setup, free 48-hour trial (no credit card required). Plans from $1.58/mo.
+
+## Key Pages
+
+- [Home](https://back1ply.github.io/legion-server-hosting/): Overview, pricing, features, and full game list
+
+## Facts
+
+- Discord community: https://discord.gg/CVMMkPEKgn
+- Supports 259 games and server types
+- Server locations: United States, Canada, Germany (Falkenstein), Australia, Brazil (São Paulo)
+- Free 48-hour trial available for all supported games — no credit card required
+- Promo code NEW2026 for 20% off first order
+- Price range: $1.58/mo (Terraria) to $12.33/mo (ARK: Survival Ascended)
+- All plans include: no player caps, full FTP access, mod installers, live console, game swapping, DDoS protection, 24/7 support
+
+## Popular Games
+
+Minecraft Java, Minecraft Bedrock, Project Zomboid, Rust, Valheim, ARK: Survival Evolved, ARK: Survival Ascended, Garry's Mod, CS:GO, Terraria, Conan Exiles, 7 Days to Die, V Rising, DayZ, Palworld, Enshrouded

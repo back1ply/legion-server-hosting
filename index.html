@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0e17" />
     <meta
       name="robots"
       content="index, follow, max-snippet:-1, max-image-preview:large"
@@ -20,7 +21,7 @@
     </title>
     <meta
       name="description"
-      content="Legion Hosting offers game server hosting for 259 games including Minecraft, Rust, Project Zomboid, and ARK. Free 48-hour trial, no credit card required. AMD Ryzen CPUs, instant setup, full mod support. Plans from $1.58/mo."
+      content="Legion Hosting: game servers for 259 games — Minecraft, Rust, ARK, Project Zomboid. Free 48-hour trial, no credit card. AMD Ryzen, DDoS protection. From $1.58/mo."
     />
     <meta
       name="keywords"
@@ -46,6 +47,12 @@
       content="https://back1ply.github.io/legion-server-hosting/"
     />
     <meta
+      property="og:image"
+      content="https://back1ply.github.io/legion-server-hosting/assets/og-banner.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
       property="og:site_name"
       content="Legion Hosting — Game Server Guide"
     />
@@ -60,6 +67,11 @@
       name="twitter:description"
       content="AMD Ryzen CPUs, DDoS protection, instant setup. 259 games supported, free trial, no credit card required."
     />
+    <meta
+      name="twitter:image"
+      content="https://back1ply.github.io/legion-server-hosting/assets/og-banner.png"
+    />
+    <meta property="og:see_also" content="https://discord.gg/CVMMkPEKgn" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -210,6 +222,21 @@
       }
     </script>
 
+    <!-- JSON-LD: Organization — entity identity for AI knowledge graphs -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Legion Hosting",
+        "url": "https://legionhosting.net",
+        "description": "Game server hosting for 259+ games with AMD Ryzen CPUs, DDoS protection, and free 48-hour trials.",
+        "sameAs": [
+          "https://back1ply.github.io/legion-server-hosting/",
+          "https://discord.gg/CVMMkPEKgn"
+        ]
+      }
+    </script>
+
     <!-- JSON-LD: WebPage with SpeakableSpecification for voice/AI -->
     <script type="application/ld+json">
       {
@@ -302,6 +329,9 @@
         }
       }
     </script>
+    <!-- Security -->
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
   </head>
   <body>
     <!-- Sticky Nav -->

@@ -1,7 +1,7 @@
 # Ignore everything by default
 *
 
-# Allow GitHub Pages essentials (root level)
+# Allow GitHub Pages essentials (root level) and google search console stuff
 !.nojekyll
 !index.html
 !style.css
@@ -10,6 +10,10 @@
 !README.md
 !robots.txt
 !sitemap.xml
+!google0f65ad99c6d0ccc1.html
+!llms.txt
+!assets/
+!assets/og-banner.png
 
 # Allow .gitignore and .gitattributes
 !.gitignore
